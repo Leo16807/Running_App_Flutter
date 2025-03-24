@@ -4,7 +4,7 @@ Die App bietet die Möglichkeit, Läufe auf einer Osm-Hintergrundkarte zu tracke
 Die App benötigt Berechtigungen dafür, Benachrichtigungen zu senden und den Standort auch im Hintergrund zu verfolgen.
 
 Autoren:
-Max Purath
+Max Purath,
 Leo Smolik
 
 
